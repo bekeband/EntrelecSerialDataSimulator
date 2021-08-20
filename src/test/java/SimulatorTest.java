@@ -18,6 +18,5 @@ class SimulatorTest {
         System.out.println();
         simulatorUI.printHexList(simulator.getController().bootMemoryArea, 0x1FC00000, 0x1FC0007F);
 
-
     }
 }
